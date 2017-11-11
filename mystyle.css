@@ -5,12 +5,16 @@
 .menu-icon{
 	display:inline-block;
 	cursor:pointer;
+	position:absolute;
+	left:10px;
 
 }
 .menu-icon2{
 	display:inline-block;
 	cursor:pointer;
-	display:none;
+	position:absolute;
+	left:10px;
+	/*display:none;*/
 }
 .bar-ting{
 	height:5px;
@@ -18,7 +22,7 @@
 	background-color:black;
 	margin: 6px 0;
 }
-.bar-ting2{
+.menu-icon2 .bar-ting2{
 	height:5px;
 	width:35px;
 	background-color:red;
