@@ -1,11 +1,27 @@
 /*the menu icon*/
+.container{
+	display:inline;
+}
 .menu-icon{
 	display:inline-block;
 	cursor:pointer;
+
+}
+.menu-icon2{
+	display:inline-block;
+	cursor:pointer;
+	display:none;
 }
 .bar-ting{
 	height:5px;
 	width:35px;
 	background-color:black;
 	margin: 6px 0;
+}
+.bar-ting2{
+	height:5px;
+	width:35px;
+	background-color:red;
+	margin: 6px 0;
+	
 }
