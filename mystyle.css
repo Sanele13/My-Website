@@ -1,0 +1,11 @@
+/*the menu icon*/
+.menu-icon{
+	display:inline-block;
+	cursor:pointer;
+}
+.bar-ting{
+	height:5px;
+	width:35px;
+	background-color:black;
+	margin: 6px 0;
+}
