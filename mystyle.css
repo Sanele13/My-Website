@@ -90,6 +90,7 @@ body{
    .nav-item,.nav-item:last-child{float: none;border-left-style:solid;border-right-style:none;display:none;}
    .nav-item .drop-down-content{background:#28283e; position:absolute;right:30%;}
    .container .menu-icon{display:block;!important}
+   #title{font-size:50px;}
 }
 
 /*the menu icon*/
@@ -131,4 +132,29 @@ body{
 	font-size:20px;
 	border-bottom-style:solid;
 	border-bottom-width:2px;
+}
+.facebook{
+	display:inline-block;
+	padding:5px;
+}
+.linkedin{
+	display:inline-block;
+	padding:5px;
+}
+.github{
+	display:inline-block;
+	padding:5px;
+}
+.social-icons{
+	display:block;
+	text-align:center;
+}
+.github a{
+	text-decoration:none;
+}
+.linkedin a{
+	text-decoration:none;
+}
+.facebook a{
+	text-decoration:none;
 }

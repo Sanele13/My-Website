@@ -5,6 +5,7 @@
 			<title>Sanele Mpangalala</title>
 			<meta name='viewport' content='width=device-width, initial-scale=1.0'>
 			<link rel = 'stylesheet' type = 'text/css' href = 'mystyle.css'>
+			<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
 			<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
 			<script >
 				
@@ -61,6 +62,13 @@
 			</div>
 		</div>
 		<!--/div-->
+		<div class = 'footer'>
+			<div class = 'social-icons'>
+				<div class = 'github'><a class='fa fa-github-square' style='font-size:36px;color:white' href = 'https://github.com/Sanele13'></a></div>
+				<div class = 'linkedin'><a class='fa fa-linkedin-square' style='font-size:36px;color:white' href = 'https://za.linkedin.com/in/sanele-mpangalala-199318a4'></a></div>
+				<div class = 'facebook'><a class='fa fa-facebook-square' style='font-size:36px;color:white' href = 'https://facebook.com/smpangalala'></a></div>
+			</div>
+		</div>
 	</body>
 	</html>";
 ?>
